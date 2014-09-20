@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:25
+-keep class com.adp.lumus.activity.GameActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:35
+-keep class com.google.ads.AdActivity { <init>(...); }
+

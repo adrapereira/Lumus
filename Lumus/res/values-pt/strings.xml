@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lumus</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="saving">Guardando…</string>
+    <string name="nextLevel">Próximo Nível</string>
+    <string name="playAgain">Jogar Outra Vez</string>
+    <string name="reset">Restabelecer Nível</string>
+    <string name="menu">Menú</string>
+    <string name="levelComplete">Nível Completo!</string>
+    <string name="level">Nível </string>
+    <string name="showSolution">Mostrar Solução?</string>
+    <string name="seeSolution">Tem a certeza que quer ver a solução?</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+    <string name="sureReset">Tem a certeza que quer restabelecer o tabuleiro?</string>
+    <string name="sureResetAll">Tem a certeza que quer restabelecer todos os níveis?</string>
+    <string name="howtoplay">Como Jogar</string>
+    <string name="howtoplay1">O objetivo do jogo é iluminar todo o tabuleiro.</string>
+    <string name="howtoplay2">Uma lâmpada, quando colocada, ilumina em 4 direções:</string>
+    <string name="howtoplay3">           - esquerda, direita, cima e baixo.</string>
+    <string name="howtoplay4">Um número obriga a que exista exatamente esse número de lâmpadas nas casas livres adjacentes.</string>
+    <string name="howtoplay5">Não é possível colocar uma lâmpada numa casa que já está iluminada.</string>
+    <string name="howtoplay6">Podem-se colocar marcas numa casa quando se tem a certeza que esta casa não pode conter uma lâmpada; para isso é necessário um duplo-toque.</string>
+    <string name="outofmoves">Sem Movimentos</string>
+    <string name="options">Opções</string>
+    <string name="play">Jogar</string>
+    <string name="pack">Pacote</string>
+    <string name="free">Grátis</string>
+    <string name="easy">Fácil</string>
+    <string name="normal">Normal</string>
+    <string name="hard">Difícil</string>
+    <string name="unlockable">Desbloqueável</string>
+    <string name="paid">Pago</string>
+    <string name="levelpacks">Pacotes de Níveis</string>
+    <string name="complete1">Completar 1–3 para desbloquar este pacote!</string>
+    <string name="complete2">Completar 4–5 para desbloquar este pacote!</string>
+    <string name="resetall">Restabelecer Todos os Níveis</string>
+    <string name="rate">Classificar App</string>
+    <string name="feedback">Enviar Feedback</string>
+    <string name="soundOn">Ligar Som</string>
+    <string name="soundOff">Desligar Som</string>
+    <string name="gameBy">Jogo por </string>
+    <string name="afterWebsite">For the discussion of \nbugs, features and updates</string>
+    <string name="loading">Carregando…</string>
+    <string name="pacotesCompletos">Pacotes Completos:</string>
+    <string name="niveisCompletos">Níveis Completos:</string>
+    <string name="lampadasColocadas">Lâmpadas Colocadas:</string>
+    <string name="lampadasRemovidas">Lâmpadas Removidas:</string>
+    <string name="marcasColocadas">Marcas Colocadas:</string>
+    <string name="resets">Níveis Restabelecidos:</string>
+    <string name="solucoes">Soluções Vistas:</string>
+    <string name="undos">Undos:</string>
+    <string name="inicializacoes">Inicializações:</string>
+    <string name="stats">Estatísticas</string>
+
+</resources>

@@ -1,0 +1,22 @@
+play - Play
+options - Options
+levelpacks - Level Packs
+pack - Pack
+free - Free
+easy - Easy
+normal - Normal
+hard - Hard
+loading - Loading
+level - Level
+levelComplete - Level Complete!
+nextlevel - Next Level
+playagain - Play Again
+menu - Menu
+unlockable - Unlockable
+paid - Paid
+reset - Reset All Levels
+rate - Rate App
+feedback - Send Feedback
+language - Language
+howtoplay - How To Play
+about - About

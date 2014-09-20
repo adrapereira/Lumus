@@ -1,0 +1,552 @@
+android.support.v4.app.BackStackState
+android.support.v4.app.BackStackState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.Fragment$SavedState
+android.support.v4.app.Fragment$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentManagerState
+android.support.v4.app.FragmentManagerState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentState
+android.support.v4.app.FragmentState: android.os.Parcelable$Creator CREATOR
+android.support.v4.app.FragmentTabHost: void setOnTabChangedListener(android.widget.TabHost$OnTabChangeListener)
+android.support.v4.app.FragmentTabHost$SavedState
+android.support.v4.app.FragmentTabHost$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status[] values()
+android.support.v4.content.ModernAsyncTask$Status: android.support.v4.content.ModernAsyncTask$Status valueOf(java.lang.String)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColor(int)
+android.support.v4.view.PagerTabStrip: void setTabIndicatorColorResource(int)
+android.support.v4.view.PagerTabStrip: int getTabIndicatorColor()
+android.support.v4.view.PagerTabStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.PagerTabStrip: void setBackgroundColor(int)
+android.support.v4.view.PagerTabStrip: void setBackgroundResource(int)
+android.support.v4.view.PagerTabStrip: void setDrawFullUnderline(boolean)
+android.support.v4.view.PagerTabStrip: boolean getDrawFullUnderline()
+android.support.v4.view.PagerTabStrip: int getMinHeight()
+android.support.v4.view.PagerTitleStrip: void setSingleLineAllCaps(android.widget.TextView)
+android.support.v4.view.PagerTitleStrip: void setTextSpacing(int)
+android.support.v4.view.PagerTitleStrip: int getTextSpacing()
+android.support.v4.view.PagerTitleStrip: void setNonPrimaryAlpha(float)
+android.support.v4.view.PagerTitleStrip: void setTextColor(int)
+android.support.v4.view.PagerTitleStrip: void setGravity(int)
+android.support.v4.view.PagerTitleStrip: int getMinHeight()
+android.support.v4.view.ViewPager: void setScrollState(int)
+android.support.v4.view.ViewPager: void setAdapter(android.support.v4.view.PagerAdapter)
+android.support.v4.view.ViewPager: android.support.v4.view.PagerAdapter getAdapter()
+android.support.v4.view.ViewPager: void setOnAdapterChangeListener(android.support.v4.view.ViewPager$OnAdapterChangeListener)
+android.support.v4.view.ViewPager: int getClientWidth()
+android.support.v4.view.ViewPager: void setCurrentItem(int)
+android.support.v4.view.ViewPager: int getCurrentItem()
+android.support.v4.view.ViewPager: void setOnPageChangeListener(android.support.v4.view.ViewPager$OnPageChangeListener)
+android.support.v4.view.ViewPager: void setChildrenDrawingOrderEnabledCompat(boolean)
+android.support.v4.view.ViewPager: int getOffscreenPageLimit()
+android.support.v4.view.ViewPager: void setOffscreenPageLimit(int)
+android.support.v4.view.ViewPager: void setPageMargin(int)
+android.support.v4.view.ViewPager: int getPageMargin()
+android.support.v4.view.ViewPager: void setPageMarginDrawable(android.graphics.drawable.Drawable)
+android.support.v4.view.ViewPager: void setPageMarginDrawable(int)
+android.support.v4.view.ViewPager: void setScrollingCacheEnabled(boolean)
+android.support.v4.view.ViewPager$SavedState
+android.support.v4.view.ViewPager$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.DrawerLayout: void setScrimColor(int)
+android.support.v4.widget.DrawerLayout: void setDrawerListener(android.support.v4.widget.DrawerLayout$DrawerListener)
+android.support.v4.widget.DrawerLayout: void setDrawerLockMode(int)
+android.support.v4.widget.DrawerLayout$SavedState
+android.support.v4.widget.DrawerLayout$SavedState: android.os.Parcelable$Creator CREATOR
+android.support.v4.widget.SlidingPaneLayout: void setParallaxDistance(int)
+android.support.v4.widget.SlidingPaneLayout: int getParallaxDistance()
+android.support.v4.widget.SlidingPaneLayout: void setSliderFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getSliderFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setCoveredFadeColor(int)
+android.support.v4.widget.SlidingPaneLayout: int getCoveredFadeColor()
+android.support.v4.widget.SlidingPaneLayout: void setPanelSlideListener(android.support.v4.widget.SlidingPaneLayout$PanelSlideListener)
+android.support.v4.widget.SlidingPaneLayout: void setShadowDrawable(android.graphics.drawable.Drawable)
+android.support.v4.widget.SlidingPaneLayout: void setShadowResource(int)
+android.support.v4.widget.SlidingPaneLayout$SavedState
+android.support.v4.widget.SlidingPaneLayout$SavedState: android.os.Parcelable$Creator CREATOR
+com.adp.lumus.R$attr: int buttonBarButtonStyle
+com.adp.lumus.R$attr: int buttonBarStyle
+com.adp.lumus.R$color: int black_overlay
+com.adp.lumus.R$drawable: int ic_launcher
+com.adp.lumus.R$id: int fullscreen_content
+com.adp.lumus.R$id: int fullscreen_content_controls
+com.adp.lumus.R$layout: int main
+com.adp.lumus.R$string: int afterWebsite
+com.adp.lumus.R$string: int app_name
+com.adp.lumus.R$string: int complete1
+com.adp.lumus.R$string: int complete2
+com.adp.lumus.R$string: int dummy_button
+com.adp.lumus.R$string: int dummy_content
+com.adp.lumus.R$string: int easy
+com.adp.lumus.R$string: int feedback
+com.adp.lumus.R$string: int free
+com.adp.lumus.R$string: int gameBy
+com.adp.lumus.R$string: int hard
+com.adp.lumus.R$string: int howtoplay
+com.adp.lumus.R$string: int howtoplay1
+com.adp.lumus.R$string: int howtoplay2
+com.adp.lumus.R$string: int howtoplay3
+com.adp.lumus.R$string: int howtoplay4
+com.adp.lumus.R$string: int howtoplay5
+com.adp.lumus.R$string: int howtoplay6
+com.adp.lumus.R$string: int inicializacoes
+com.adp.lumus.R$string: int lampadasColocadas
+com.adp.lumus.R$string: int lampadasRemovidas
+com.adp.lumus.R$string: int level
+com.adp.lumus.R$string: int levelComplete
+com.adp.lumus.R$string: int levelpacks
+com.adp.lumus.R$string: int loading
+com.adp.lumus.R$string: int marcasColocadas
+com.adp.lumus.R$string: int menu
+com.adp.lumus.R$string: int nextLevel
+com.adp.lumus.R$string: int niveisCompletos
+com.adp.lumus.R$string: int no
+com.adp.lumus.R$string: int normal
+com.adp.lumus.R$string: int options
+com.adp.lumus.R$string: int outofmoves
+com.adp.lumus.R$string: int pack
+com.adp.lumus.R$string: int pacotesCompletos
+com.adp.lumus.R$string: int paid
+com.adp.lumus.R$string: int play
+com.adp.lumus.R$string: int playAgain
+com.adp.lumus.R$string: int rate
+com.adp.lumus.R$string: int reset
+com.adp.lumus.R$string: int resetall
+com.adp.lumus.R$string: int resets
+com.adp.lumus.R$string: int saving
+com.adp.lumus.R$string: int seeSolution
+com.adp.lumus.R$string: int showSolution
+com.adp.lumus.R$string: int solucoes
+com.adp.lumus.R$string: int soundOff
+com.adp.lumus.R$string: int soundOn
+com.adp.lumus.R$string: int stats
+com.adp.lumus.R$string: int sureReset
+com.adp.lumus.R$string: int sureResetAll
+com.adp.lumus.R$string: int undos
+com.adp.lumus.R$string: int unlockable
+com.adp.lumus.R$string: int yes
+com.adp.lumus.R$style: int AppBaseTheme
+com.adp.lumus.R$style: int AppTheme
+com.adp.lumus.R$style: int ButtonBar
+com.adp.lumus.R$style: int ButtonBarButton
+com.adp.lumus.R$style: int FullscreenActionBarStyle
+com.adp.lumus.R$style: int FullscreenTheme
+com.adp.lumus.R$style: int Theme_NoBackground
+com.adp.lumus.R$styleable: int[] ButtonBarContainerTheme
+com.adp.lumus.R$styleable: int ButtonBarContainerTheme_buttonBarButtonStyle
+com.adp.lumus.R$styleable: int ButtonBarContainerTheme_buttonBarStyle
+com.adp.lumus.activity.GameActivity
+com.adp.lumus.activity.GameActivity: GameActivity()
+com.adp.lumus.general.SceneManager$SceneType: com.adp.lumus.general.SceneManager$SceneType[] values()
+com.adp.lumus.general.SceneManager$SceneType: com.adp.lumus.general.SceneManager$SceneType valueOf(java.lang.String)
+com.adp.lumus.saveGame.Estatisticas
+com.adp.lumus.saveGame.Estatisticas: int pacotesCompletos
+com.adp.lumus.saveGame.Estatisticas: int niveisCompletos
+com.adp.lumus.saveGame.Estatisticas: int lampadasColocadas
+com.adp.lumus.saveGame.Estatisticas: int lampadasRetiradas
+com.adp.lumus.saveGame.Estatisticas: int marcasColocadas
+com.adp.lumus.saveGame.Estatisticas: int resets
+com.adp.lumus.saveGame.Estatisticas: int solucoesVistas
+com.adp.lumus.saveGame.Estatisticas: int undos
+com.adp.lumus.saveGame.Estatisticas: int inicializacoes
+com.adp.lumus.saveGame.Estatisticas: long serialVersionUID
+com.adp.lumus.saveGame.Estatisticas: Estatisticas()
+com.adp.lumus.saveGame.Estatisticas: Estatisticas(com.adp.lumus.saveGame.Estatisticas)
+com.adp.lumus.saveGame.Estatisticas: void addPacotesCompletos()
+com.adp.lumus.saveGame.Estatisticas: void addNiveisCompletos()
+com.adp.lumus.saveGame.Estatisticas: void addLampadasColocadas()
+com.adp.lumus.saveGame.Estatisticas: void addLampadasRetiradas()
+com.adp.lumus.saveGame.Estatisticas: void addmarcasColocadas()
+com.adp.lumus.saveGame.Estatisticas: void addResets()
+com.adp.lumus.saveGame.Estatisticas: void addSolucoesVistas()
+com.adp.lumus.saveGame.Estatisticas: void addUndos()
+com.adp.lumus.saveGame.Estatisticas: void addInicializacoes()
+com.adp.lumus.saveGame.Estatisticas: void subLampadasColocadas()
+com.adp.lumus.saveGame.Estatisticas: int getPacotesCompletos()
+com.adp.lumus.saveGame.Estatisticas: int getNiveisCompletos()
+com.adp.lumus.saveGame.Estatisticas: int getLampadasColocadas()
+com.adp.lumus.saveGame.Estatisticas: int getLampadasRetiradas()
+com.adp.lumus.saveGame.Estatisticas: int getMarcasColocadas()
+com.adp.lumus.saveGame.Estatisticas: int getResets()
+com.adp.lumus.saveGame.Estatisticas: int getSolucoesVistas()
+com.adp.lumus.saveGame.Estatisticas: int getUndos()
+com.adp.lumus.saveGame.Estatisticas: int getInicializacoes()
+com.adp.lumus.saveGame.Estatisticas: void setPacotesCompletos(int)
+com.adp.lumus.saveGame.Estatisticas: void setNiveisCompletos(int)
+com.adp.lumus.saveGame.Estatisticas: void setLampadasColocadas(int)
+com.adp.lumus.saveGame.Estatisticas: void setLampadasRetiradas(int)
+com.adp.lumus.saveGame.Estatisticas: void setMarcasColocadas(int)
+com.adp.lumus.saveGame.Estatisticas: void setResets(int)
+com.adp.lumus.saveGame.Estatisticas: void setSolucoesVistas(int)
+com.adp.lumus.saveGame.Estatisticas: void setUndos(int)
+com.adp.lumus.saveGame.Estatisticas: void setInicializacoes(int)
+com.adp.lumus.saveGame.Estatisticas: com.adp.lumus.saveGame.Estatisticas clone()
+com.adp.lumus.saveGame.Estatisticas: java.lang.Object clone()
+com.adp.lumus.saveGame.Jogada
+com.adp.lumus.saveGame.Jogada: int x
+com.adp.lumus.saveGame.Jogada: int y
+com.adp.lumus.saveGame.Jogada: int tileAntigo
+com.adp.lumus.saveGame.Jogada: long serialVersionUID
+com.adp.lumus.saveGame.Jogada: Jogada(int,int,int)
+com.adp.lumus.saveGame.Jogada: int getX()
+com.adp.lumus.saveGame.Jogada: void setX(int)
+com.adp.lumus.saveGame.Jogada: int getY()
+com.adp.lumus.saveGame.Jogada: void setY(int)
+com.adp.lumus.saveGame.Jogada: int getTileAntigo()
+com.adp.lumus.saveGame.Jogada: void setTileAntigo(int)
+com.adp.lumus.saveGame.Nivel
+com.adp.lumus.saveGame.Nivel: java.lang.String nome
+com.adp.lumus.saveGame.Nivel: int[][] matriz
+com.adp.lumus.saveGame.Nivel: int[][] solucao
+com.adp.lumus.saveGame.Nivel: boolean resolvido
+com.adp.lumus.saveGame.Nivel: java.util.Stack stack
+com.adp.lumus.saveGame.Nivel: long serialVersionUID
+com.adp.lumus.saveGame.Nivel: Nivel(java.lang.String,int[][],int[][])
+com.adp.lumus.saveGame.Nivel: Nivel(com.adp.lumus.saveGame.Nivel)
+com.adp.lumus.saveGame.Nivel: java.lang.String getNome()
+com.adp.lumus.saveGame.Nivel: int getCoord(int,int)
+com.adp.lumus.saveGame.Nivel: int[][] getMatriz()
+com.adp.lumus.saveGame.Nivel: int[][] getSolucao()
+com.adp.lumus.saveGame.Nivel: boolean isResolvido()
+com.adp.lumus.saveGame.Nivel: void setResolvido(boolean)
+com.adp.lumus.saveGame.Nivel: void setMatriz(int[][])
+com.adp.lumus.saveGame.Nivel: void setStack(java.util.Stack)
+com.adp.lumus.saveGame.Nivel: java.util.Stack getStack()
+com.adp.lumus.saveGame.Nivel: com.adp.lumus.saveGame.Jogada fazPop()
+com.adp.lumus.saveGame.Nivel: void addToStack(com.adp.lumus.saveGame.Jogada)
+com.adp.lumus.saveGame.Nivel: com.adp.lumus.saveGame.Nivel clone()
+com.adp.lumus.saveGame.Nivel: java.lang.String toString()
+com.adp.lumus.saveGame.Nivel: java.lang.Object clone()
+com.adp.lumus.saveGame.Pacote
+com.adp.lumus.saveGame.Pacote: int numero
+com.adp.lumus.saveGame.Pacote: java.util.Map niveis
+com.adp.lumus.saveGame.Pacote: long serialVersionUID
+com.adp.lumus.saveGame.Pacote: Pacote(int)
+com.adp.lumus.saveGame.Pacote: Pacote(com.adp.lumus.saveGame.Pacote)
+com.adp.lumus.saveGame.Pacote: int getNumero()
+com.adp.lumus.saveGame.Pacote: com.adp.lumus.saveGame.Nivel getNivel(int)
+com.adp.lumus.saveGame.Pacote: void addNivel(int,com.adp.lumus.saveGame.Nivel)
+com.adp.lumus.saveGame.Pacote: boolean isCompleto()
+com.adp.lumus.saveGame.Pacote: void putNivel(int,com.adp.lumus.saveGame.Nivel,boolean)
+com.adp.lumus.saveGame.Pacote: void putNivelNoCheck(int,com.adp.lumus.saveGame.Nivel)
+com.adp.lumus.saveGame.Pacote: int sizePacote()
+com.adp.lumus.saveGame.Pacote: java.util.Map getNiveis()
+com.adp.lumus.saveGame.Pacote: com.adp.lumus.saveGame.Pacote clone()
+com.adp.lumus.saveGame.Pacote: java.lang.Object clone()
+com.adp.lumus.saveGame.Save
+com.adp.lumus.saveGame.Save: int versao
+com.adp.lumus.saveGame.Save: java.util.Map pacotes
+com.adp.lumus.saveGame.Save: com.adp.lumus.saveGame.Estatisticas est
+com.adp.lumus.saveGame.Save: long serialVersionUID
+com.adp.lumus.saveGame.Save: Save(int,boolean)
+com.adp.lumus.saveGame.Save: com.adp.lumus.saveGame.Nivel getNivel(int,int)
+com.adp.lumus.saveGame.Save: int getVersao()
+com.adp.lumus.saveGame.Save: void setVersao(int)
+com.adp.lumus.saveGame.Save: void putPacote(int,com.adp.lumus.saveGame.Pacote)
+com.adp.lumus.saveGame.Save: void putPacoteNoCheck(int,com.adp.lumus.saveGame.Pacote)
+com.adp.lumus.saveGame.Save: java.util.Map getPacotes()
+com.adp.lumus.saveGame.Save: int size()
+com.adp.lumus.saveGame.Save: void mergeSave(com.adp.lumus.saveGame.Save)
+com.adp.lumus.saveGame.Save: com.adp.lumus.saveGame.Estatisticas getEstatisticas()
+com.adp.lumus.saveGame.Save: void setEstatisticas(com.adp.lumus.saveGame.Estatisticas)
+com.google.ads.Ad
+com.google.ads.AdActivity
+com.google.ads.AdActivity: AdActivity()
+com.google.ads.AdActivity: void onClick(android.view.View)
+com.google.ads.AdActivity$StaticMethodWrapper
+com.google.ads.AdListener
+com.google.ads.AdRequest
+com.google.ads.AdRequest$ErrorCode
+com.google.ads.AdRequest$ErrorCode: com.google.ads.AdRequest$ErrorCode[] values()
+com.google.ads.AdRequest$ErrorCode: com.google.ads.AdRequest$ErrorCode valueOf(java.lang.String)
+com.google.ads.AdRequest$Gender
+com.google.ads.AdRequest$Gender: com.google.ads.AdRequest$Gender[] values()
+com.google.ads.AdRequest$Gender: com.google.ads.AdRequest$Gender valueOf(java.lang.String)
+com.google.ads.AdSize
+com.google.ads.AdView
+com.google.ads.AdView: void setAdListener(com.google.ads.AdListener)
+com.google.ads.AdView: void setAppEventListener(com.google.ads.AppEventListener)
+com.google.ads.AdView: void setSwipeableEventListener(com.google.ads.SwipeableAdListener)
+com.google.ads.AdView: void setSupportedAdSizes(com.google.ads.AdSize[])
+com.google.ads.AppEventListener
+com.google.ads.InterstitialAd
+com.google.ads.SwipeableAdListener
+com.google.ads.a
+com.google.ads.aa
+com.google.ads.ab
+com.google.ads.ac
+com.google.ads.ae
+com.google.ads.af
+com.google.ads.ag
+com.google.ads.ag$1
+com.google.ads.ag$a
+com.google.ads.ag$b
+com.google.ads.ag$c
+com.google.ads.ag$d
+com.google.ads.ag$e
+com.google.ads.ag$f
+com.google.ads.ag$g
+com.google.ads.ag$h
+com.google.ads.ag$i
+com.google.ads.ag$j
+com.google.ads.ag$k
+com.google.ads.ag$l
+com.google.ads.ag$m
+com.google.ads.ah
+com.google.ads.ai
+com.google.ads.aj
+com.google.ads.ak
+com.google.ads.ak$a
+com.google.ads.al
+com.google.ads.am
+com.google.ads.an
+com.google.ads.an$a
+com.google.ads.ao
+com.google.ads.ap
+com.google.ads.aq
+com.google.ads.ar
+com.google.ads.as
+com.google.ads.at
+com.google.ads.at$1
+com.google.ads.at$a
+com.google.ads.au
+com.google.ads.au$a
+com.google.ads.av
+com.google.ads.b
+com.google.ads.c
+com.google.ads.c$1
+com.google.ads.d
+com.google.ads.doubleclick.DfpAdView
+com.google.ads.doubleclick.DfpAdView: void setAppEventListener(com.google.ads.AppEventListener)
+com.google.ads.doubleclick.DfpAdView: void setSupportedAdSizes(com.google.ads.AdSize[])
+com.google.ads.doubleclick.DfpExtras
+com.google.ads.doubleclick.DfpInterstitialAd
+com.google.ads.doubleclick.SwipeableDfpAdView
+com.google.ads.doubleclick.SwipeableDfpAdView: void setSwipeableEventListener(com.google.ads.SwipeableAdListener)
+com.google.ads.e
+com.google.ads.e$1
+com.google.ads.e$2
+com.google.ads.e$3
+com.google.ads.e$4
+com.google.ads.e$5
+com.google.ads.e$6
+com.google.ads.e$7
+com.google.ads.e$8
+com.google.ads.f
+com.google.ads.g
+com.google.ads.g$a
+com.google.ads.g$a: com.google.ads.g$a[] values()
+com.google.ads.g$a: com.google.ads.g$a valueOf(java.lang.String)
+com.google.ads.h
+com.google.ads.h$1
+com.google.ads.h$2
+com.google.ads.i
+com.google.ads.i$a
+com.google.ads.internal.ActivationOverlay
+com.google.ads.internal.ActivationOverlay: void setOverlayEnabled(boolean)
+com.google.ads.internal.ActivationOverlay: void setOverlayActivated(boolean)
+com.google.ads.internal.ActivationOverlay: void setYPosition(int)
+com.google.ads.internal.ActivationOverlay: void setXPosition(int)
+com.google.ads.internal.ActivationOverlay$1
+com.google.ads.internal.AdVideoView
+com.google.ads.internal.AdVideoView: void setMediaControllerEnabled(boolean)
+com.google.ads.internal.AdVideoView: void setSrc(java.lang.String)
+com.google.ads.internal.AdVideoView$a
+com.google.ads.internal.AdWebView
+com.google.ads.internal.AdWebView: void setAdActivity(com.google.ads.AdActivity)
+com.google.ads.internal.AdWebView: void setAdSize(com.google.ads.AdSize)
+com.google.ads.internal.AdWebView: void setCustomClose(boolean)
+com.google.ads.internal.AdWebView: void setIsExpandedMraid(boolean)
+com.google.ads.internal.AdWebView$1
+com.google.ads.internal.AdWebView$2
+com.google.ads.internal.a
+com.google.ads.internal.a$1
+com.google.ads.internal.a$2
+com.google.ads.internal.a$3
+com.google.ads.internal.a$4
+com.google.ads.internal.b
+com.google.ads.internal.c
+com.google.ads.internal.c$1
+com.google.ads.internal.c$2
+com.google.ads.internal.c$3
+com.google.ads.internal.c$a
+com.google.ads.internal.c$b
+com.google.ads.internal.c$c
+com.google.ads.internal.c$d
+com.google.ads.internal.c$d: com.google.ads.internal.c$d[] values()
+com.google.ads.internal.c$d: com.google.ads.internal.c$d valueOf(java.lang.String)
+com.google.ads.internal.c$e
+com.google.ads.internal.d
+com.google.ads.internal.e
+com.google.ads.internal.f
+com.google.ads.internal.f$1
+com.google.ads.internal.f$a
+com.google.ads.internal.g
+com.google.ads.internal.h
+com.google.ads.internal.i
+com.google.ads.internal.j
+com.google.ads.internal.j$a
+com.google.ads.internal.k
+com.google.ads.internal.k$a
+com.google.ads.internal.k$a$1
+com.google.ads.internal.k$a$2
+com.google.ads.internal.k$a$3
+com.google.ads.j
+com.google.ads.k
+com.google.ads.l
+com.google.ads.m
+com.google.ads.m$a
+com.google.ads.mediation.EmptyNetworkExtras
+com.google.ads.mediation.MediationAdRequest
+com.google.ads.mediation.MediationAdapter
+com.google.ads.mediation.MediationBannerAdapter
+com.google.ads.mediation.MediationBannerListener
+com.google.ads.mediation.MediationInterstitialAdapter
+com.google.ads.mediation.MediationInterstitialListener
+com.google.ads.mediation.MediationServerParameters
+com.google.ads.mediation.MediationServerParameters$MappingException
+com.google.ads.mediation.MediationServerParameters$Parameter
+com.google.ads.mediation.NetworkExtras
+com.google.ads.mediation.admob.AdMobAdapter
+com.google.ads.mediation.admob.AdMobAdapter$1
+com.google.ads.mediation.admob.AdMobAdapter$a
+com.google.ads.mediation.admob.AdMobAdapter$b
+com.google.ads.mediation.admob.AdMobAdapterExtras
+com.google.ads.mediation.admob.AdMobAdapterServerParameters
+com.google.ads.mediation.customevent.CustomEvent
+com.google.ads.mediation.customevent.CustomEventAdapter
+com.google.ads.mediation.customevent.CustomEventAdapter$a
+com.google.ads.mediation.customevent.CustomEventAdapter$b
+com.google.ads.mediation.customevent.CustomEventBanner
+com.google.ads.mediation.customevent.CustomEventBannerListener
+com.google.ads.mediation.customevent.CustomEventExtras
+com.google.ads.mediation.customevent.CustomEventInterstitial
+com.google.ads.mediation.customevent.CustomEventInterstitialListener
+com.google.ads.mediation.customevent.CustomEventListener
+com.google.ads.mediation.customevent.CustomEventServerParameters
+com.google.ads.n
+com.google.ads.o
+com.google.ads.p
+com.google.ads.q
+com.google.ads.r
+com.google.ads.s
+com.google.ads.searchads.SearchAdRequest
+com.google.ads.searchads.SearchAdRequest$BorderType
+com.google.ads.searchads.SearchAdRequest$BorderType: com.google.ads.searchads.SearchAdRequest$BorderType[] values()
+com.google.ads.searchads.SearchAdRequest$BorderType: com.google.ads.searchads.SearchAdRequest$BorderType valueOf(java.lang.String)
+com.google.ads.t
+com.google.ads.u
+com.google.ads.util.AdUtil
+com.google.ads.util.AdUtil$UserActivityReceiver
+com.google.ads.util.AdUtil$a
+com.google.ads.util.AdUtil$a: com.google.ads.util.AdUtil$a[] values()
+com.google.ads.util.AdUtil$a: com.google.ads.util.AdUtil$a valueOf(java.lang.String)
+com.google.ads.util.IcsUtil
+com.google.ads.util.IcsUtil$IcsAdWebView
+com.google.ads.util.IcsUtil$a
+com.google.ads.util.a
+com.google.ads.util.a$a
+com.google.ads.util.b
+com.google.ads.util.b$a
+com.google.ads.util.b$a: com.google.ads.util.b$a[] values()
+com.google.ads.util.b$a: com.google.ads.util.b$a valueOf(java.lang.String)
+com.google.ads.util.b$b
+com.google.ads.util.c
+com.google.ads.util.c$a
+com.google.ads.util.c$b
+com.google.ads.util.d
+com.google.ads.util.e
+com.google.ads.util.f
+com.google.ads.util.g
+com.google.ads.util.g$1
+com.google.ads.util.g$a
+com.google.ads.util.g$a$1
+com.google.ads.util.g$a$2
+com.google.ads.util.g$a$3
+com.google.ads.util.g$a$4
+com.google.ads.util.g$a$5
+com.google.ads.util.g$a$6
+com.google.ads.util.g$b
+com.google.ads.util.h
+com.google.ads.util.i
+com.google.ads.util.i$1
+com.google.ads.util.i$a
+com.google.ads.util.i$b
+com.google.ads.util.i$c
+com.google.ads.util.i$d
+com.google.ads.v
+com.google.ads.w
+com.google.ads.x
+com.google.ads.y
+com.google.ads.z
+org.andengine.engine.options.ScreenOrientation: org.andengine.engine.options.ScreenOrientation[] values()
+org.andengine.engine.options.ScreenOrientation: org.andengine.engine.options.ScreenOrientation valueOf(java.lang.String)
+org.andengine.engine.options.WakeLockOptions: org.andengine.engine.options.WakeLockOptions[] values()
+org.andengine.engine.options.WakeLockOptions: org.andengine.engine.options.WakeLockOptions valueOf(java.lang.String)
+org.andengine.entity.primitive.DrawMode: org.andengine.entity.primitive.DrawMode[] values()
+org.andengine.entity.primitive.DrawMode: org.andengine.entity.primitive.DrawMode valueOf(java.lang.String)
+org.andengine.entity.sprite.ButtonSprite$State: org.andengine.entity.sprite.ButtonSprite$State[] values()
+org.andengine.entity.sprite.ButtonSprite$State: org.andengine.entity.sprite.ButtonSprite$State valueOf(java.lang.String)
+org.andengine.entity.text.AutoWrap: org.andengine.entity.text.AutoWrap[] values()
+org.andengine.entity.text.AutoWrap: org.andengine.entity.text.AutoWrap valueOf(java.lang.String)
+org.andengine.input.sensor.SensorDelay: org.andengine.input.sensor.SensorDelay[] values()
+org.andengine.input.sensor.SensorDelay: org.andengine.input.sensor.SensorDelay valueOf(java.lang.String)
+org.andengine.input.sensor.location.LocationProviderStatus: org.andengine.input.sensor.location.LocationProviderStatus[] values()
+org.andengine.input.sensor.location.LocationProviderStatus: org.andengine.input.sensor.location.LocationProviderStatus valueOf(java.lang.String)
+org.andengine.input.sensor.location.LocationSensorOptions
+org.andengine.opengl.GLES20Fix
+org.andengine.opengl.GLES20Fix: void glVertexAttribPointer(int,int,int,boolean,int,int)
+org.andengine.opengl.GLES20Fix: void glDrawElements(int,int,int,int)
+org.andengine.opengl.font.FontUtils$MeasureDirection: org.andengine.opengl.font.FontUtils$MeasureDirection[] values()
+org.andengine.opengl.font.FontUtils$MeasureDirection: org.andengine.opengl.font.FontUtils$MeasureDirection valueOf(java.lang.String)
+org.andengine.opengl.texture.PixelFormat: org.andengine.opengl.texture.PixelFormat[] values()
+org.andengine.opengl.texture.PixelFormat: org.andengine.opengl.texture.PixelFormat valueOf(java.lang.String)
+org.andengine.opengl.texture.atlas.bitmap.source.decorator.LinearGradientFillBitmapTextureAtlasSourceDecorator$LinearGradientDirection: org.andengine.opengl.texture.atlas.bitmap.source.decorator.LinearGradientFillBitmapTextureAtlasSourceDecorator$LinearGradientDirection[] values()
+org.andengine.opengl.texture.atlas.bitmap.source.decorator.LinearGradientFillBitmapTextureAtlasSourceDecorator$LinearGradientDirection: org.andengine.opengl.texture.atlas.bitmap.source.decorator.LinearGradientFillBitmapTextureAtlasSourceDecorator$LinearGradientDirection valueOf(java.lang.String)
+org.andengine.opengl.texture.atlas.bitmap.source.decorator.RadialGradientFillBitmapTextureAtlasSourceDecorator$RadialGradientDirection: org.andengine.opengl.texture.atlas.bitmap.source.decorator.RadialGradientFillBitmapTextureAtlasSourceDecorator$RadialGradientDirection[] values()
+org.andengine.opengl.texture.atlas.bitmap.source.decorator.RadialGradientFillBitmapTextureAtlasSourceDecorator$RadialGradientDirection: org.andengine.opengl.texture.atlas.bitmap.source.decorator.RadialGradientFillBitmapTextureAtlasSourceDecorator$RadialGradientDirection valueOf(java.lang.String)
+org.andengine.opengl.texture.bitmap.BitmapTextureFormat: org.andengine.opengl.texture.bitmap.BitmapTextureFormat[] values()
+org.andengine.opengl.texture.bitmap.BitmapTextureFormat: org.andengine.opengl.texture.bitmap.BitmapTextureFormat valueOf(java.lang.String)
+org.andengine.opengl.texture.compressed.pvr.PVRCCZTexture$CCZCompressionFormat: org.andengine.opengl.texture.compressed.pvr.PVRCCZTexture$CCZCompressionFormat[] values()
+org.andengine.opengl.texture.compressed.pvr.PVRCCZTexture$CCZCompressionFormat: org.andengine.opengl.texture.compressed.pvr.PVRCCZTexture$CCZCompressionFormat valueOf(java.lang.String)
+org.andengine.opengl.texture.compressed.pvr.PVRTexture$PVRTextureFormat: org.andengine.opengl.texture.compressed.pvr.PVRTexture$PVRTextureFormat[] values()
+org.andengine.opengl.texture.compressed.pvr.PVRTexture$PVRTextureFormat: org.andengine.opengl.texture.compressed.pvr.PVRTexture$PVRTextureFormat valueOf(java.lang.String)
+org.andengine.opengl.util.BufferUtils
+org.andengine.opengl.util.BufferUtils: java.nio.ByteBuffer jniAllocateDirect(int)
+org.andengine.opengl.util.BufferUtils: void jniFreeDirect(java.nio.ByteBuffer)
+org.andengine.opengl.util.BufferUtils: void jniPut(java.nio.ByteBuffer,float[],int,int)
+org.andengine.opengl.vbo.DrawType: org.andengine.opengl.vbo.DrawType[] values()
+org.andengine.opengl.vbo.DrawType: org.andengine.opengl.vbo.DrawType valueOf(java.lang.String)
+org.andengine.opengl.view.RenderSurfaceView: org.andengine.opengl.view.ConfigChooser getConfigChooser()
+org.andengine.ui.activity.BaseActivity: BaseActivity()
+org.andengine.ui.activity.BaseGameActivity: BaseGameActivity()
+org.andengine.util.WifiUtils$WifiHotspotState: org.andengine.util.WifiUtils$WifiHotspotState[] values()
+org.andengine.util.WifiUtils$WifiHotspotState: org.andengine.util.WifiUtils$WifiHotspotState valueOf(java.lang.String)
+org.andengine.util.adt.align.HorizontalAlign: org.andengine.util.adt.align.HorizontalAlign[] values()
+org.andengine.util.adt.align.HorizontalAlign: org.andengine.util.adt.align.HorizontalAlign valueOf(java.lang.String)
+org.andengine.util.adt.align.VerticalAlign: org.andengine.util.adt.align.VerticalAlign[] values()
+org.andengine.util.adt.align.VerticalAlign: org.andengine.util.adt.align.VerticalAlign valueOf(java.lang.String)
+org.andengine.util.adt.bounds.BoundsSplit: org.andengine.util.adt.bounds.BoundsSplit[] values()
+org.andengine.util.adt.bounds.BoundsSplit: org.andengine.util.adt.bounds.BoundsSplit valueOf(java.lang.String)
+org.andengine.util.adt.data.operator.ByteOperator: org.andengine.util.adt.data.operator.ByteOperator[] values()
+org.andengine.util.adt.data.operator.ByteOperator: org.andengine.util.adt.data.operator.ByteOperator valueOf(java.lang.String)
+org.andengine.util.adt.data.operator.CharOperator: org.andengine.util.adt.data.operator.CharOperator[] values()
+org.andengine.util.adt.data.operator.CharOperator: org.andengine.util.adt.data.operator.CharOperator valueOf(java.lang.String)
+org.andengine.util.adt.data.operator.DoubleOperator: org.andengine.util.adt.data.operator.DoubleOperator[] values()
+org.andengine.util.adt.data.operator.DoubleOperator: org.andengine.util.adt.data.operator.DoubleOperator valueOf(java.lang.String)
+org.andengine.util.adt.data.operator.FloatOperator: org.andengine.util.adt.data.operator.FloatOperator[] values()
+org.andengine.util.adt.data.operator.FloatOperator: org.andengine.util.adt.data.operator.FloatOperator valueOf(java.lang.String)
+org.andengine.util.adt.data.operator.IntOperator: org.andengine.util.adt.data.operator.IntOperator[] values()
+org.andengine.util.adt.data.operator.IntOperator: org.andengine.util.adt.data.operator.IntOperator valueOf(java.lang.String)
+org.andengine.util.adt.data.operator.LongOperator: org.andengine.util.adt.data.operator.LongOperator[] values()
+org.andengine.util.adt.data.operator.LongOperator: org.andengine.util.adt.data.operator.LongOperator valueOf(java.lang.String)
+org.andengine.util.adt.data.operator.ShortOperator: org.andengine.util.adt.data.operator.ShortOperator[] values()
+org.andengine.util.adt.data.operator.ShortOperator: org.andengine.util.adt.data.operator.ShortOperator valueOf(java.lang.String)
+org.andengine.util.adt.data.operator.StringOperator: org.andengine.util.adt.data.operator.StringOperator[] values()
+org.andengine.util.adt.data.operator.StringOperator: org.andengine.util.adt.data.operator.StringOperator valueOf(java.lang.String)
+org.andengine.util.adt.spatial.Direction: org.andengine.util.adt.spatial.Direction[] values()
+org.andengine.util.adt.spatial.Direction: org.andengine.util.adt.spatial.Direction valueOf(java.lang.String)
+org.andengine.util.debug.Debug$DebugLevel: org.andengine.util.debug.Debug$DebugLevel[] values()
+org.andengine.util.debug.Debug$DebugLevel: org.andengine.util.debug.Debug$DebugLevel valueOf(java.lang.String)
+org.andengine.util.exception.DeviceNotSupportedException$DeviceNotSupportedCause: org.andengine.util.exception.DeviceNotSupportedException$DeviceNotSupportedCause[] values()
+org.andengine.util.exception.DeviceNotSupportedException$DeviceNotSupportedCause: org.andengine.util.exception.DeviceNotSupportedException$DeviceNotSupportedCause valueOf(java.lang.String)
+org.andengine.util.mime.MIMEType: org.andengine.util.mime.MIMEType[] values()
+org.andengine.util.mime.MIMEType: org.andengine.util.mime.MIMEType valueOf(java.lang.String)

@@ -1,0 +1,22 @@
+play - Jogar
+options - Opções
+levelpacks - Pacotes de Níveis
+pack - Pacote
+free - Grátis
+easy - Fácil
+normal - Normal
+hard - Difícil
+loading - Carregando
+level - Nível
+levelComplete - Nível Completo!
+nextlevel - Nível Seguinte
+playagain - Jogar Outra Vez
+menu - Menu
+unlockable - Desbloqueável
+paid - Pago
+reset - Restabelecer Todos os Níveis
+rate - Classificar App
+feedback - Enviar Feedback
+language - Idioma
+howtoplay - Como Jogar
+about - Sobre
